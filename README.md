@@ -1,1 +1,4 @@
-# GetUser!![изображение](https://user-images.githubusercontent.com/88195636/175789702-902df957-5a15-470e-9d73-6b08dba7b02a.png)
+# GetUser!
+
+![изображение](https://user-images.githubusercontent.com/88195636/175789740-d7d6864a-a8d5-489e-bed6-317156ce3fa1.png)
+
